@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Mykhailo 👋
 
 ## QA Engineer · QA Automation · SDET · Playwright · TypeScript
 
